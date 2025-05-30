@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+AI%2FData+Specialist+%7C+Automotive+Innovation;🚗+LLM+Integration+Expert+%7C+BMW+%26+VW+Alumni;📊+Transforming+Data+into+Intelligence;🔬+Building+the+Future+of+Automotive+AI)](https://git.io/typing-svg)
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Morris%20Darren%20Babu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Automotive%20%7C%20Innovation&descAlignY=51&descAlign=50"/>
 
 </div>
