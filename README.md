@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=🤖+AI%2FData+Specialist+%7C+Automotive+Innovation+Pioneer;🚗+LLM+Integration+Expert+%7C+BMW+%26+Volkswagen+Alumni;📊+Transforming+Complex+Automotive+Data+into+Intelligence;🔬+Building+Future+of+AI-Powered+Automotive+Systems;🛡️+Security+Testing+%26+CI%2FCD%2FCT+Pipeline+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=🤖+MLOps+Engineer+%7C+AI%2FData+Specialist;🏢+Deutsche+Telekom+%7C+BMW+%26+Volkswagen+Alumni;📊+Transforming+Data+Workflows+with+GenAI+%26+LLMOps;🔬+LLM+Benchmarking+%7C+RAG+%7C+Fine-Tuning+Expert;☁️+AWS+%7C+Azure+%7C+Kubernetes+%7C+MLflow+%7C+vLLM)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=220&section=header&text=Morris%20Darren%20Babu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚗%20Automotive%20AI%20Researcher%20%7C%20Security%20Testing%20Expert%20%7C%20LLM%20Specialist&descAlignY=58&descAlign=50&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=220&section=header&text=Morris%20Darren%20Babu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MLOps%20Engineer%20%7C%20AI%2FData%20Specialist%20%7C%20LLMOps%20%26%20GenAI&descAlignY=58&descAlign=50&descSize=20"/>
 
 </div>
 
@@ -18,15 +18,16 @@
 <tr>
 <td width="70%">
 
-> *"I'm passionate about leveraging cutting-edge AI and machine learning technologies to solve real-world problems in the automotive industry. Whether you're interested in collaborative research, innovative projects, or just want to discuss the latest in AI and automotive technology, I'd love to connect!"*
+> *"Structured AI/Data Specialist skilled at transforming and automating data workflows. Proficient in AWS, Azure, and Docker for secure cloud-native DevOps. Expert in analytics, ML/DL, and interactive visualization for data-driven decisions. Experienced in GenAI, AI Agents and LLMOps, including LLM evaluation, prompt engineering, RAG, and LoRA/QLoRA fine-tuning. Drives innovation through agile collaboration and Industry 4.0 frameworks."*
 
 ### 🎯 **Professional Identity**
-- 🎓 **M.Sc. Data Science** @ Friedrich Alexander University Erlangen-Nuremberg 
-- 🏎️ **Master Thesis Researcher** @ **Volkswagen Group (CARIAD)** - AI in Automotive CI/CD/CT
-- 🔵 **Former AI/ML Specialist** @ **BMW Group** - LLMs & Advanced Analytics
-- 🌱 Passionate about **Generative AI**, **Automotive Security**, **Computer Vision**
-- 💡 Transforming complex automotive data into intelligent, actionable solutions
-- 📍 **Nürnberg, Bavaria, Germany** 🇩🇪
+- 🏢 **MLOps Engineer Intern** @ **Deutsche Telekom** - LLM Infrastructure & Deployment
+- 🏎️ **Master Thesis** @ **Volkswagen Group (CARIAD)** - Integrating LLMs In Automotive Systems
+- 🔵 **Former Data Scientist Intern** @ **BMW Group** - RAG & LLM Systems
+- 🎓 **M.Sc. Data Science** @ Friedrich Alexander University Erlangen-Nuremberg
+- 🌱 Passionate about **GenAI**, **LLMOps**, **MLOps**, **Computer Vision**
+- 💡 Transforming complex data into intelligent, actionable solutions
+- 📍 **Bonn, NRW, Germany** 🇩🇪
 
 </td>
 <td width="30%">
@@ -39,6 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/morrisdarrenbabu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:morrisdarren357@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DARREN-2000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://darren-2000.github.io/)
 
 </div>
 
@@ -50,13 +52,13 @@
 
 ---
 
-## 🛡️ **Master Thesis Research @ CARIAD (Volkswagen Group)**
+## 🏢 **Current Role: Deutsche Telekom — MLOps Engineer Intern**
 
 <div align="center">
 
-### 🔬 **AI Usage in CI/CD/CT Pipelines for Automotive Compute Platforms**
+### 🔬 **LLM Infrastructure & Deployment**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Revolutionizing+Automotive+Security+Through+AI-Driven+Testing" alt="Research Focus"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=E20074&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Building+Enterprise-Grade+LLM+Benchmarking+%26+MLOps+Infrastructure" alt="Current Focus"/>
 
 </div>
 
@@ -64,15 +66,10 @@
 <tr>
 <td width="50%">
 
-### 🎯 **Research Vision**
-My groundbreaking research explores **AI-enhanced security testing** within automotive CI/CD/CT pipelines, specifically focusing on **Whitebox fuzzing** augmented by **Large Language Models**. This work addresses the critical challenge of maintaining robust software security while accelerating development cycles in safety-critical automotive systems.
-
-### 🔬 **Core Research Objectives**
-- 🧠 **AI-Enhanced Whitebox Fuzzing** - Revolutionary security testing integration
-- 🔄 **Intelligent CI/CD/CT Pipelines** - Seamless AI-driven automation  
-- 🤖 **Automated Test Artifact Generation** - Smart test cases & procedures
-- 🎭 **Realistic Mock Scenario Creation** - Advanced security testing environments
-- 📊 **Comprehensive Performance Analysis** - Efficiency & coverage optimization
+### 🎯 **Key Contributions**
+- 🧠 **LLM Benchmarking Framework** — Microservices on vLLM using GuideLLM (latency, throughput) and DeepEval (LLM-as-judge), tracking experiments in ClearML for SLOs
+- 🔄 **Scaled Automated Benchmarking** — GitLab CI/CD & Kubernetes runners, containerized matrix jobs on Hugging Face datasets, reports published to Grafana
+- 🔐 **Secured Enterprise MLflow** — Kubernetes deployments with Keycloak OIDC & OAuth sidecars for SSO, ingress, TLS, and RBAC compliance
 
 </td>
 <td width="50%">
@@ -81,25 +78,80 @@ My groundbreaking research explores **AI-enhanced security testing** within auto
 
 ```mermaid
 graph TD
-    A[🧠 AI/LLM Engine] --> B[🔍 Whitebox Fuzzing]
+    A[🧠 LLM Models] --> B[📊 GuideLLM Benchmarks]
+    A --> C[🤖 DeepEval LLM-as-Judge]
+    B --> D[📈 ClearML Experiment Tracking]
+    C --> D
+    D --> E[🎯 SLO Definition]
+    E --> F[🔄 GitLab CI/CD]
+    F --> G[☸️ Kubernetes Runners]
+    G --> H[📊 Grafana Dashboards]
+
+    style A fill:#E20074,stroke:#fff,stroke-width:2px
+    style D fill:#4ECDC4,stroke:#fff,stroke-width:2px
+    style G fill:#326CE5,stroke:#fff,stroke-width:2px
+    style H fill:#F46800,stroke:#fff,stroke-width:2px
+```
+
+### 🏆 **Technologies**
+vLLM · GuideLLM · DeepEval · ClearML · MLflow · Keycloak · Kubernetes (Helm) · GitLab CI/CD · Grafana · Docker
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛡️ **Master Thesis @ CARIAD (Volkswagen Group)**
+
+<div align="center">
+
+### 🔬 **Integrating LLMs In Automotive Systems**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=AI-Driven+Black-Box+Fuzzing+for+Automotive+Cybersecurity" alt="Research Focus"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Research Vision**
+My research explores **AI-driven black-box fuzzing** within automotive CI/CD/CT pipelines, leveraging **Large Language Models** in **Azure AI Foundry**. This work addresses the critical challenge of maintaining robust software security while accelerating development cycles in safety-critical automotive systems.
+
+### 🔬 **Core Research Contributions**
+- 🧠 **AI-Driven Black-Box Fuzzing** — Benchmarked 16 LLM models, boosting code-flaw detection by 13%
+- 🔄 **Automated Test-Case Generation** — Containerized LLM inference in CI/CD/CT, cutting test creation time by 33%
+- 🔐 **Secure Azure Private Link** — Automated LLM fuzz-testing PoC, reducing delays by 10%
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🧠 AI/LLM Engine] --> B[🔍 Black-Box Fuzzing]
     B --> C[🔄 CI/CD/CT Pipeline]
     C --> D[⚡ Automated Testing]
     D --> E[📊 Security Analysis]
     E --> F[🛡️ Vulnerability Detection]
     F --> G[📈 Quality Assurance]
     G --> H[🚗 Automotive Safety]
-    
+
     style A fill:#FF6B6B,stroke:#fff,stroke-width:2px
     style C fill:#4ECDC4,stroke:#fff,stroke-width:2px
     style F fill:#45B7D1,stroke:#fff,stroke-width:2px
     style H fill:#96CEB4,stroke:#fff,stroke-width:2px
 ```
 
-### 🏆 **Expected Research Impact**
-- 🎯 **Revolutionary vulnerability detection** methods
-- ⚡ **25-40% faster CI/CD cycles** through AI automation
-- 🛡️ **90%+ automated security coverage** achievement
-- 🚗 **Enhanced automotive safety** standards
+### 🏆 **Quantifiable Impact**
+- 🎯 **+13% code-flaw detection** via Azure AI Foundry
+- ⚡ **-33% test creation time** through automation
+- 🛡️ **+7% code coverage** increase
+- 🚗 **-10% execution delays** — improved SW quality
 
 </div>
 
@@ -118,30 +170,36 @@ graph TD
 ```mermaid
 timeline
     title Professional Evolution & Achievements
-    
+
     section Academic Foundation
         2018-2022    : B.E. Computer Science
                      : Rajalakshmi Institute, India
                      : 📝 OCR & NLP Research
-        
-    section Industry Experience
+
+    section Early Industry Experience
+        Jun-Dec 2020 : Python Developer Intern
+                     : Jman Group (London, Remote)
+                     : 🤖 87% ML accuracy, +27% throughput
         Feb-Jul 2021 : Data Engineering Intern
-                     : Altascio Technologies (Remote)
+                     : Altascio Technologies (Texas, Remote)
                      : ⏰ 20hrs/week automation savings
         Oct 2021-Sep 2022 : Data Analyst
                            : Crystal Consultancy, Chennai
                            : 📊 +25% ETL pipeline enhancement
-        
-    section Advanced Research
-        Oct 2022-Present : M.Sc. Data Science
-                         : FAU Erlangen-Nuremberg
-                         : 🧠 AI & ML Specialization
-        Oct 2024-Mar 2025 : AI/ML Specialist Intern
+
+    section Advanced Research & Industry
+        Oct 2022-Mar 2026 : M.Sc. Data Science
+                          : FAU Erlangen-Nuremberg
+                          : 🧠 AI & ML Specialization
+        Oct 2024-Apr 2025 : Data Scientist Intern
                           : BMW Group, Munich
-                          : 🎯 +12% diagnostic precision
-        Apr-Sep 2025      : Master Thesis Research
-                          : Volkswagen CARIAD
-                          : 🛡️ +13% security detection
+                          : 🎯 +12% precision via RAG & LLM
+        May-Sep 2025      : Master Thesis
+                          : Volkswagen CARIAD, Wolfsburg
+                          : 🛡️ +13% flaw detection, LLMs in Automotive
+        Oct 2025-Mar 2026 : MLOps Engineer Intern
+                          : Deutsche Telekom, Bonn
+                          : 🚀 LLM Benchmarking & MLOps Infra
 ```
 
 </div>
@@ -154,12 +212,16 @@ timeline
 
 | 🎯 **Metric** | 📈 **Impact** | 🏢 **Organization** |
 |:-------------:|:-------------:|:------------------:|
-| **Test Coverage** | `+7%` | 🚗 Volkswagen CARIAD |
-| **Security Detection** | `+13%` | 🚗 Volkswagen CARIAD |
-| **Execution Efficiency** | `-4%` delay | 🚗 Volkswagen CARIAD |
+| **LLM Benchmarking** | SLO-driven | 🏢 Deutsche Telekom |
+| **Enterprise MLflow** | Keycloak SSO | 🏢 Deutsche Telekom |
+| **Code-Flaw Detection** | `+13%` | 🚗 Volkswagen CARIAD |
+| **Test Creation Time** | `-33%` | 🚗 Volkswagen CARIAD |
+| **Code Coverage** | `+7%` | 🚗 Volkswagen CARIAD |
 | **Diagnostic Precision** | `+12%` | 🔵 BMW Group |
 | **Processing Speed** | `+8%` | 🔵 BMW Group |
 | **Pipeline Enhancement** | `+25%` | 💎 Crystal Consultancy |
+| **ML Accuracy** | `87%` | 🟢 Jman Group |
+| **ETL Throughput** | `+27%` | 🟢 Jman Group |
 | **Time Automation** | `20hrs/week` | 🏢 Altascio Technologies |
 
 </td>
@@ -173,12 +235,12 @@ timeline
 
 </div>
 
-- 🤖 **Generative AI & Large Language Models**
-- 🛡️ **Automotive Security Testing & Validation**
-- 📊 **Advanced Data Science & Machine Learning**
-- ☁️ **Cloud Computing & DevOps Engineering**
+- 🤖 **GenAI, LLMOps & AI Agents**
+- 📊 **ML/DL & Interactive Visualization**
+- ☁️ **AWS, Azure & Cloud-Native DevOps**
 - 🔄 **CI/CD/CT Pipeline Optimization**
-- 🚗 **Automotive Software Engineering**
+- 🛡️ **Security Testing & MLOps**
+- 🏭 **Industry 4.0 Frameworks**
 
 </td>
 </tr>
@@ -199,34 +261,45 @@ timeline
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 
-### 🧬 **Generative AI & Advanced ML**
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🧬 **Generative AI & LLMOps**
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![GANs](https://img.shields.io/badge/GANs-FF6B6B?style=for-the-badge)
 ![VAEs](https://img.shields.io/badge/VAEs-4ECDC4?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-45B7D1?style=for-the-badge)
 ![Prompting](https://img.shields.io/badge/Prompt_Engineering-96CEB4?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-7B2D8B?style=for-the-badge)
+![GuideLLM](https://img.shields.io/badge/GuideLLM-1F6FEB?style=for-the-badge)
+![DeepEval](https://img.shields.io/badge/DeepEval-00D4FF?style=for-the-badge)
 
 ### ☁️ **Cloud & DevOps Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Aurora](https://img.shields.io/badge/AWS_Aurora-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Aurora](https://img.shields.io/badge/Aurora-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4B4B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Spark](https://img.shields.io/badge/Azure_Spark-0078D4?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Data Lake](https://img.shields.io/badge/Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🔧 **DevOps & Containerization**
+### 🔧 **DevOps, MLOps & Containerization**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-00B4D8?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 📊 **Data Engineering & Analytics**
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_S4_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_R3-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### 🛠️ **Programming & Development**
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -235,10 +308,9 @@ timeline
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📈 **Data Analysis & Visualization**
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SUMIFS](https://img.shields.io/badge/SUMIFS-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -289,60 +361,49 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### 🛡️ **1. Automotive LLM Security Pipeline**
-**🔬 Master Thesis Research Implementation**  
-[![Repository](https://img.shields.io/badge/Repository-View_Code-FF6B6B?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/automotive-llm-security)  
-🛠️ **Tech:** LLMs, Docker, Azure AI Foundry, CI/CD, Security Testing  
-🎯 **Impact:** +7% test coverage, +13% security detection, -4% execution delays  
-💡 **Innovation:** AI-driven whitebox fuzzing for automotive compute platforms
+#### 🛡️ **1. LLM Integration for Automotive Systems**
+**🔬 Master Thesis — Volkswagen Group (CARIAD)**
+[![Repository](https://img.shields.io/badge/Repository-llm--integration-FF6B6B?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/llm-integration)
+🛠️ **Tech:** LLMs, Docker, Azure AI Foundry, CI/CD/CT, Black-Box Fuzzing
+🎯 **Impact:** +13% code-flaw detection, -33% test creation time, +7% code coverage
+💡 **Innovation:** AI-driven black-box fuzzing for automotive compute platforms
 
 </td>
 </tr>
 <tr>
 <td align="center" width="100%">
 
-#### 🔮 **2. Material Prediction with Graph Neural Networks**
-**🔬 Advanced ML for Predictive Maintenance**  
-[![Repository](https://img.shields.io/badge/Repository-View_Code-4ECDC4?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/material-prediction-gnn)  
-🛠️ **Tech:** Graph Neural Networks, PyTorch, Synthetic Datasets, Mesh Generation  
-🎯 **Impact:** RMSE < 0.1, 95% accuracy in wear prediction  
-💡 **Innovation:** Custom GNN framework with comprehensive synthetic dataset generation
+#### 🔮 **2. Material Prediction & Mesh Dataset Generation with GNNs**
+**🔬 Advanced ML for Predictive Maintenance**
+[![GNN Framework](https://img.shields.io/badge/Repo-Graph--Neural--Networks-4ECDC4?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/Graph-Neural-Networks)
+[![Dataset Generation](https://img.shields.io/badge/Repo-GNN--Dataset--Generation-45B7D1?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/GNN-Dataset-Generation-for-Material-Wear-Prediction)
+🛠️ **Tech:** Graph Neural Networks, PyTorch, Synthetic Datasets, Mesh Generation
+🎯 **Impact:** RMSE < 0.1, custom GNN framework for structural wear prediction
+💡 **Innovation:** Synthetic mesh dataset generation for material wear prediction
 
 </td>
 </tr>
 <tr>
 <td align="center" width="100%">
 
-#### 🤖 **3. BMW Diagnostic AI Assistant**
-**🔬 RAG-based Multi-modal Diagnostic System**  
-[![Repository](https://img.shields.io/badge/Repository-View_Code-45B7D1?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/bmw-diagnostic-ai)  
-🛠️ **Tech:** RAG, AWS SageMaker, EC2, S3, Semantic Segmentation  
-🎯 **Impact:** +12% diagnostic precision, real-time processing  
-💡 **Innovation:** Multi-modal input processing (text & image) with adaptive rectification
+#### 📝 **3. OCR with Handwritten Recognition & Auto Spelling Correction**
+**🔬 Bachelor Thesis — NLP-based Document Processing**
+[![Repository](https://img.shields.io/badge/Repository-OCR--Spelling--Correction-FECA57?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction)
+🛠️ **Tech:** Tesseract OCR, NLP, Language Models, Text Tokenization
+🎯 **Impact:** 89% CER reduction, automated spelling correction
+💡 **Innovation:** End-to-end OCR pipeline with handwritten recognition
 
 </td>
 </tr>
 <tr>
 <td align="center" width="100%">
 
-#### 📝 **4. OCR + Auto Spelling Correction System**
-**🔬 NLP-based Document Processing Engine**  
-[![Repository](https://img.shields.io/badge/Repository-View_Code-FECA57?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/ocr-spelling-correction)  
-🛠️ **Tech:** Tesseract OCR, NLP, REST API, Language Models, Text Tokenization  
-🎯 **Impact:** 89% accuracy improvement, multilingual support  
-💡 **Innovation:** Scalable REST API with advanced language modeling
-
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-#### 🎬 **5. Hybrid AI Recommendation Engine**
-**🔬 Advanced Recommendation with Deep Learning**  
-[![Repository](https://img.shields.io/badge/Repository-View_Code-96CEB4?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/hybrid-recommendation-system)  
-🛠️ **Tech:** Collaborative Filtering, Content-Based, Flask, Clustering, Deep Learning  
-🎯 **Impact:** 92% accuracy, real-time user recommendations  
-💡 **Innovation:** Hybrid filtering approach with Flask-based web application
+#### 🎬 **4. Hybrid Movie Recommendation System**
+**🔬 Publication — Advanced Recommendation with Deep Learning**
+[![Repository](https://img.shields.io/badge/Repository-Hybrid--Movie--Recommendation-96CEB4?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
+🛠️ **Tech:** Collaborative Filtering, Content-Based, Flask, Clustering, Deep Learning
+🎯 **Impact:** 92% Top-K Hit Rate, real-time user recommendations
+💡 **Innovation:** Hybrid filtering approach combining collaborative and content-based methods
 
 </td>
 </tr>
@@ -350,14 +411,99 @@ timeline
 
 ---
 
-## 🔬 **Detailed Professional Experience**
-
-<details>
-<summary>🚗 <strong>Volkswagen Group (CARIAD)</strong> - Master Thesis Research | <em>April 2025 - September 2025</em></summary>
+## 📂 **GitHub Repositories**
 
 <div align="center">
 
-### 🛡️ **AI Usage in CI/CD/CT Pipelines for Automotive Compute Platforms**
+### 🗂️ **All Public Repositories**
+
+<table>
+<tr>
+<td width="50%">
+
+[![Graph-Neural-Networks](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Graph-Neural-Networks&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Graph-Neural-Networks)
+
+</td>
+<td width="50%">
+
+[![GNN-Dataset-Generation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=GNN-Dataset-Generation-for-Material-Wear-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/GNN-Dataset-Generation-for-Material-Wear-Prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![OCR-Spelling-Correction](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction)
+
+</td>
+<td width="50%">
+
+[![Hybrid-Movie-Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Hybrid-Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![llm-integration](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=llm-integration&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/llm-integration)
+
+</td>
+<td width="50%">
+
+[![B2B_Consent_Personalization](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=B2B_Consent_Personalization&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/B2B_Consent_Personalization)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Classify-Math-Publications](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Classify-Math-Publications&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Classify-Math-Publications)
+
+</td>
+<td width="50%">
+
+[![AI-Assignments](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=AI-Assignments&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/AI-Assignments)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Machine-Learning-Hands-on](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Machine-Learning-Hands-on&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Machine-Learning-Hands-on)
+
+</td>
+<td width="50%">
+
+[![Data-Preprocessing-Templates](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Data-Preprocessing-Templates&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Data-Preprocessing-Templates)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Cloud-Native-Cassandra](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Cloud-Native-Cassandra-Building-CRUD-applications-with-Python-and-NodeJS&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Cloud-Native-Cassandra-Building-CRUD-applications-with-Python-and-NodeJS)
+
+</td>
+<td width="50%">
+
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=DARREN-2000.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/DARREN-2000.github.io)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔬 **Detailed Professional Experience**
+
+<details>
+<summary>🏢 <strong>Deutsche Telekom</strong> — MLOps Engineer Intern | LLM Infrastructure & Deployment | <em>October 2025 – March 2026, Bonn</em></summary>
+
+<div align="center">
+
+### 🚀 **LLM Benchmarking & Enterprise MLOps**
 
 </div>
 
@@ -365,38 +511,75 @@ timeline
 <tr>
 <td width="50%">
 
-**🔬 Revolutionary Research Contributions:**
-- 🧠 **AI-Enhanced Whitebox Fuzzing** - Novel security testing methodology
-- 🔄 **LLM-Integrated CI/CD/CT Pipelines** - Intelligent automation frameworks
-- 🤖 **Automated Test Artifact Generation** - Smart test case creation
-- 🎭 **Realistic Mock Scenario Development** - Advanced testing environments
-- 📊 **Comprehensive Impact Analysis** - Performance optimization metrics
+**🔬 Key Engineering Contributions:**
+- 🧠 **LLM Benchmarking Framework** — Microservices on vLLM with GuideLLM & DeepEval
+- 📈 **ClearML Experiment Tracking** — SLO definition for model selection & capacity planning
+- 🔄 **Automated CI/CD Benchmarking** — GitLab CI/CD, Kubernetes runners, Hugging Face datasets
+- 📊 **Grafana Reporting** — Published containerized matrix job results
+- 🔐 **Enterprise MLflow Security** — Keycloak OIDC, OAuth sidecars, TLS, RBAC
 
 </td>
 <td width="50%">
 
-**📈 Quantifiable Research Impact:**
-- 🎯 **+7% test coverage** improvement via Docker-deployed LLMs
-- 🛡️ **+13% code-flaw detection** through Azure AI Foundry fuzzing
-- ⚡ **-4% execution delays** via AI time-effect analysis
-- 🔍 **Enhanced ECU resilience** and cybersecurity threat reduction
-- 📋 **Automated security validation** in CI/CD/CT pipelines
+**📈 Impact & Outcomes:**
+- 🎯 **SLO-driven model selection** & capacity planning
+- ☸️ **Kubernetes-native** benchmarking at scale
+- 🔐 **SSO & compliance** for enterprise MLflow
+- 📊 **Real-time dashboards** via Grafana
+- 🔄 **Fully automated** end-to-end pipeline
 
 </td>
 </tr>
 </table>
 
-**🛠️ Technologies:** Docker, Azure AI Foundry, LLMs, CI/CD Tools, Security Testing, Python, Git  
-**📄 Experience Letter:** *[Link will be added manually]*
+**🛠️ Technologies:** vLLM, GuideLLM, DeepEval, ClearML, MLflow, Keycloak, Kubernetes, Helm, GitLab CI/CD, Grafana, Docker
 
 </details>
 
 <details>
-<summary>🔵 <strong>BMW Group</strong> - Data Science Intern (AI/ML & LLMs) | <em>October 2024 - March 2025</em></summary>
+<summary>🚗 <strong>Volkswagen Group (CARIAD)</strong> — Master Thesis | Integrating LLMs In Automotive Systems | <em>May 2025 – September 2025, Wolfsburg</em></summary>
 
 <div align="center">
 
-### 🤖 **Advanced AI/ML Solutions for Automotive Diagnostics**
+### 🛡️ **AI-Driven Black-Box Fuzzing for Automotive Cybersecurity**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🔬 Research Contributions:**
+- 🧠 **AI-Driven Black-Box Fuzzing** — Benchmarked 16 LLM models in Azure AI Foundry
+- 🔄 **Automated Test-Case Generation** — Containerized LLM inference in CI/CD/CT pipelines
+- 🔐 **Secure Azure Private Link** — Automated LLM fuzz-testing PoC replacing manual tests
+- 🚗 **ECU Resilience** — Strengthened automotive cybersecurity posture
+- 📊 **Comprehensive Evaluation** — Performance & coverage optimization
+
+</td>
+<td width="50%">
+
+**📈 Quantifiable Research Impact:**
+- 🎯 **+13% code-flaw detection** through Azure AI Foundry fuzzing
+- ⚡ **-33% test creation time** via automated generation
+- 🛡️ **+7% code coverage** improvement via Docker-deployed LLMs
+- 🔍 **-10% execution delays** via Azure Private Link
+- 📋 **Reduced OEM cybersecurity threats**
+
+</td>
+</tr>
+</table>
+
+**🛠️ Technologies:** Azure AI Foundry, Azure Private Link, Docker, LLMs, CI/CD/CT, Python, Git
+
+</details>
+
+<details>
+<summary>🔵 <strong>BMW Group</strong> — Data Scientist Intern | RAG & LLM Systems | <em>October 2024 – April 2025, Munich</em></summary>
+
+<div align="center">
+
+### 🤖 **RAG & LLM Systems for Automotive Diagnostics**
 
 </div>
 
@@ -405,33 +588,32 @@ timeline
 <td width="50%">
 
 **🔬 Technical Innovation Achievements:**
-- 🎯 **RAG Auto-suggestion Model** - Multi-modal diagnostic system
-- ☁️ **AWS SageMaker Deployment** - Scalable ML infrastructure
-- 🖼️ **Semantic Segmentation** - Surface detection with adaptive rectification
-- 🚀 **LLM Optimization** - Hyperparameter fine-tuning & file ingestion
-- 📡 **Real-time API Services** - High-performance inference systems
+- 🎯 **CRNN Surface Detection** — Deployed on AWS SageMaker (EC2, S3) with semantic segmentation
+- 🌐 **Django Web Application** — Parsing geometric STL meshes & file ingestion
+- 🤖 **LLM Auto-Suggestion Model** — RAG & vector search for part issue identification
+- 📡 **Document Chunking Pipelines** — Data indexing for precision enhancement
+- ☁️ **API-Served Results** — Cut false positives via tuned AI parameters
 
 </td>
 <td width="50%">
 
 **📈 Measurable Business Impact:**
-- 🎯 **+12% diagnostic precision** enhancement
-- 🖼️ **Multi-modal processing** (text & image inputs)
-- ⚡ **+8% processing speed** improvement
-- ☁️ **99.9% system uptime** on AWS infrastructure
-- 🔄 **Sub-200ms API response** times achieved
+- 🎯 **+12% precision** via RAG & vector search
+- ⚡ **+8% faster processing** through document chunking
+- ☁️ **AWS SageMaker** production deployment
+- 🖼️ **Semantic segmentation** for surface detection
+- 🔄 **Django-based** mesh parsing application
 
 </td>
 </tr>
 </table>
 
-**🛠️ Technologies:** AWS SageMaker, EC2, S3, RAG, Semantic Segmentation, LLMs, Python, TensorFlow  
-**📄 Experience Letter:** *[Link will be added manually]*
+**🛠️ Technologies:** AWS SageMaker, EC2, S3, RAG, Django, Semantic Segmentation, LLMs, Python, TensorFlow
 
 </details>
 
 <details>
-<summary>💎 <strong>Crystal Consultancy Services</strong> - Data Analyst | <em>October 2021 - September 2022</em></summary>
+<summary>💎 <strong>Crystal Consultancy Services</strong> — Data Analyst | <em>October 2021 – September 2022, Chennai, India</em></summary>
 
 <div align="center">
 
@@ -443,34 +625,31 @@ timeline
 <tr>
 <td width="50%">
 
-**🔬 Analytical Excellence Contributions:**
-- 📊 **SAP R3 KPI Monitoring** - Performance optimization analytics
-- ⚡ **Azure Databricks ETL** - Pipeline speed enhancement
-- 📈 **Feature Engineering** - Advanced model deployment optimization
-- 💼 **Data-Driven Insights** - Strategic business decision support
-- 🔍 **Automated Reporting** - Statistical analysis & visualization
+**🔬 Analytical Contributions:**
+- 📊 **SAP R3 KPI Monitoring** — Data-driven performance optimization
+- ⚡ **Azure Databricks ETL** — Pipeline speed enhancement
+- 📈 **Feature Engineering** — Model deployment optimization
+- 💼 **Data-Driven Decisions** — Targeted business impact
 
 </td>
 <td width="50%">
 
 **📈 Organizational Impact Metrics:**
-- 📊 **+4% KPI performance** improvement
-- ⚡ **+25% ETL pipeline speed** enhancement
-- 💰 **Significant cost reduction** through optimization
-- 📈 **Manual effort reduction** via automation
+- 📊 **+4% KPI improvement** through targeted decisions
+- ⚡ **+25% ETL pipeline speed** via Azure Databricks
+- 📈 **Optimized feature engineering** & model deployment
 - 🎯 **Data quality improvement** initiatives
 
 </td>
 </tr>
 </table>
 
-**🛠️ Technologies:** SAP R3, Azure Databricks, Power BI, SQL, Python, Statistical Analysis  
-**📄 Experience Letter:** *[Link will be added manually]*
+**🛠️ Technologies:** SAP R3, Azure Databricks, Power BI, SQL, Python, Statistical Analysis
 
 </details>
 
 <details>
-<summary>🏢 <strong>Altascio Technologies</strong> - Data Engineering Intern | <em>February 2021 - July 2021</em></summary>
+<summary>🏢 <strong>Altascio Technologies</strong> — Data Engineering Intern | <em>February 2021 – July 2021, Texas, USA (Remote)</em></summary>
 
 <div align="center">
 
@@ -482,29 +661,62 @@ timeline
 <tr>
 <td width="50%">
 
-**🔬 Engineering Innovation Solutions:**
-- 📊 **Excel Automation** - VBA, Pivot Tables, VLOOKUP, SUMIFS
-- 🗃️ **SQL Data Consolidation** - Fragmented inventory system integration
-- 🔄 **ETL Process Optimization** - Data pipeline development
-- 📈 **Report Generation Automation** - Manual effort reduction
-- 🛠️ **Data Quality Frameworks** - Validation & assurance systems
+**🔬 Engineering Solutions:**
+- 📊 **Excel Automation** — VBA, Pivot Tables, VLOOKUP, SUMIFS
+- 🗃️ **SQL Data Consolidation** — Fragmented inventory integration
+- 🔄 **ETL Process Optimization** — Data pipeline development
+- 📈 **Report Generation Automation** — Manual effort reduction
 
 </td>
 <td width="50%">
 
 **📈 Operational Efficiency Gains:**
-- ⏰ **20 hours/week automation** savings
+- ⏰ **20 hours/week** automation savings
 - 📈 **-2% report generation time** reduction
 - 🗃️ **-11% inventory update time** improvement
-- 🎯 **100% data accuracy** achievement
-- 🔄 **Streamlined workflow** implementation
+- 🔄 **Streamlined workflows**
 
 </td>
 </tr>
 </table>
 
-**🛠️ Technologies:** SQL, Excel (VBA, Pivot, VLOOKUP, SUMIFS), Data Consolidation, Python  
-**📄 Experience Letter:** *[Link will be added manually]*
+**🛠️ Technologies:** SQL, Excel (VBA, Pivot, VLOOKUP, SUMIFS), Data Consolidation, Python
+
+</details>
+
+<details>
+<summary>🟢 <strong>Jman Group</strong> — Python Developer Intern | <em>June 2020 – December 2020, London, UK (Remote)</em></summary>
+
+<div align="center">
+
+### 🤖 **Predictive Modeling & Data Science**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**🔬 Technical Contributions:**
+- 🤖 **Predictive Models** — ML algorithms using sensor data
+- 📡 **Field Testing** — 87% accuracy in real-world tests
+- 🔄 **End-to-End Data Science** — Solved ETL pipeline bottlenecks
+- 📈 **Throughput Optimization** — Pipeline performance enhancement
+
+</td>
+<td width="50%">
+
+**📈 Measurable Impact:**
+- 🎯 **87% accuracy** in field tests
+- ⚡ **+27% throughput** improvement
+- 🔄 **ETL bottleneck resolution**
+- 📊 **End-to-end** pipeline delivery
+
+</td>
+</tr>
+</table>
+
+**🛠️ Technologies:** Python, ML Algorithms, Sensor Data Processing, ETL Pipelines
 
 </details>
 
@@ -521,12 +733,11 @@ timeline
 <td width="50%" align="center">
 
 #### 🎓 **Master of Science in Data Science**
-**Friedrich Alexander University Erlangen-Nuremberg**  
-**🇩🇪 Germany | October 2022 - Present**
+**Friedrich Alexander University Erlangen-Nuremberg**
+**🇩🇪 Germany | October 2022 – March 2026**
 
-<img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=200&color=4ECDC4"/>
+<img src="https://progress-bar.dev/100/?scale=100&title=Completed&width=200&color=4ECDC4"/>
 
-**📊 CGPA:** 2.5/4.0  
 **🔬 Core Specializations:**
 - Pattern Recognition & Computer Vision
 - Deep Learning & Neural Networks
@@ -541,12 +752,12 @@ timeline
 <td width="50%" align="center">
 
 #### 🎓 **Bachelor of Engineering in Computer Science**
-**Rajalakshmi Institute of Technology**  
-**🇮🇳 India | June 2018 - June 2022**
+**Rajalakshmi Institute of Technology**
+**🇮🇳 India | June 2018 – June 2022**
 
 <img src="https://progress-bar.dev/100/?scale=100&title=Completed&width=200&color=96CEB4"/>
 
-**🏆 Achievement:** Graduated with Excellence  
+**🏆 Achievement:** Graduated with Excellence
 **💻 Technical Foundation:**
 - Data Structures & Algorithms
 - Database Management Systems
@@ -576,10 +787,9 @@ timeline
 
 </div>
 
-- 📈 **Business Intelligence & Regression Techniques**
-- 🎓 **Predictive Data Analytics Nanodegree**
-- 🔍 **Data Warehousing & Big Data Specialization**
-- 📊 **Machine Learning Algorithms Mastery**
+- 📈 **Excel to MySQL: Regression Statistics**
+- 🎓 **Predictive Data Analytics for BI Nanodegree**
+- 🔍 **Data Warehousing, Big Data on GCP**
 
 **📄 Certificates:** [*View All Certifications*](https://github.com/DARREN-2000/Documents)
 
@@ -596,10 +806,9 @@ timeline
 
 </div>
 
-- 🌐 **Google Cloud Platform (GCP) Certification**
-- 🤖 **IT Automation with Python Specialization**
-- 🧠 **Deep Learning AI TensorFlow Developer**
-- ☁️ **Cloud Architecture & Deployment**
+- 🌐 **Google Cloud Platform IT Automation**
+- 🧠 **DL AI TensorFlow Developer**
+- ☁️ **Data Warehousing, Big Data on GCP**
 
 **📄 Certificates:** [*View All Certifications*](https://github.com/DARREN-2000/Documents)
 
@@ -619,67 +828,74 @@ timeline
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 #### 🇺🇸 **English**
 **C1 Business Fluent**
 
 <div align="center">
 
-![English Progress](https://progress-bar.dev/90/?scale=100&title=C1_Level&width=180&color=4ECDC4&suffix=%)
+![English Progress](https://progress-bar.dev/90/?scale=100&title=C1_Level&width=150&color=4ECDC4&suffix=%)
 
 **🎯 Proficiency Areas:**
 - ✅ Professional Communication
 - ✅ Technical Documentation
 - ✅ Research Publications
 - ✅ International Collaboration
-- ✅ Presentation & Public Speaking
 
 </div>
 
-**📄 Certificate:** [*Link to Language Certificates*](https://github.com/DARREN-2000/Documents)
-
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 #### 🇩🇪 **German (Deutsch)**
-**A2 → B1 (Currently Advancing)**
+**A2 erworben, B1 laufend**
 
 <div align="center">
 
-![German Progress](https://progress-bar.dev/45/?scale=100&title=B1_Progress&width=180&color=FF6B6B&suffix=%)
+![German Progress](https://progress-bar.dev/45/?scale=100&title=B1_Progress&width=150&color=FF6B6B&suffix=%)
 
 **🎯 Learning Objectives:**
 - 🎯 Workplace Communication
 - 🎯 Local Integration
 - 🎯 Professional Environment
 - 🎯 Cultural Understanding
-- 🎯 Technical Conversations
 
 </div>
 
-**📄 Certificate:** [*A2 Certificate Link*](https://github.com/DARREN-2000/Documents)
-
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 #### 🇫🇷 **French**
-**A2 Conversational Level**
+**A1 Beginner**
 
 <div align="center">
 
-![French Progress](https://progress-bar.dev/35/?scale=100&title=A2_Level&width=180&color=FECA57&suffix=%)
+![French Progress](https://progress-bar.dev/20/?scale=100&title=A1_Level&width=150&color=FECA57&suffix=%)
 
 **🎯 Communication Skills:**
-- 🌟 Basic Professional Interaction
+- 🌟 Basic Interaction
 - 🌟 Cultural Appreciation
-- 🌟 Travel & Tourism
 - 🌟 European Integration
-- 🌟 Cross-cultural Understanding
 
 </div>
 
-**📄 Certificate:** [*Link to French Certificates*](https://github.com/DARREN-2000/Documents)
+</td>
+<td width="25%" align="center">
+
+#### 🇮🇳 **Tamil**
+**Native Speaker**
+
+<div align="center">
+
+![Tamil Progress](https://progress-bar.dev/100/?scale=100&title=Native&width=150&color=96CEB4&suffix=%)
+
+**🎯 Proficiency:**
+- ✅ Mother Tongue
+- ✅ Full Professional Fluency
+- ✅ Cultural Heritage
+
+</div>
 
 </td>
 </tr>
@@ -704,15 +920,6 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### 🐍 **Animated Contribution Visualization**
-
-[![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/DARREN-2000/DARREN-2000/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/DARREN-2000)
-[![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/DARREN-2000/DARREN-2000/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/DARREN-2000)
-
-### 📈 **Advanced GitHub Performance Metrics**
-
-<img src="https://metrics.lecoq.io/DARREN-2000?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.timezone=Europe%2FBerlin&config.twemoji=true" alt="Comprehensive GitHub Analytics"/>
-
 </div>
 
 ---
@@ -728,31 +935,31 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 <td width="50%">
 
 #### 🎬 **Movie Recommendation System using Hybrid Filtering**
-**Principal Author:** Morris Darren Babu  
-**Publication Year:** 2022  
-**Research Impact:** Advanced ML & Recommendation Systems  
+**Principal Author:** Morris Darren Babu
+**Publication Year:** 2022
+**Research Impact:** Advanced ML & Recommendation Systems
 
 <div align="center">
 
-![Publication Impact](https://progress-bar.dev/92/?scale=100&title=92%25_Accuracy&width=200&color=2ED573)
+![Publication Impact](https://progress-bar.dev/92/?scale=100&title=92%25_Top-K_Hit_Rate&width=200&color=2ED573)
 
 </div>
 
 **🔬 Key Research Innovations:**
-- 🎯 **Hybrid Filtering Approach** - Collaborative + Content-based
-- 🔄 **Advanced Clustering Techniques** - Enhanced user segmentation
-- 💻 **Flask Web Application** - Real-time recommendation engine
-- 📊 **92% Accuracy Achievement** - Superior performance metrics
+- 🎯 **Hybrid Filtering** — Collaborative + Content-based
+- 🔄 **Advanced Clustering** — Enhanced user segmentation
+- 💻 **Flask Web Application** — Real-time recommendations
+- 📊 **92% Top-K Hit Rate** — Superior metrics
 
-**📄 Publication:** [*Research Paper Link*](https://github.com/DARREN-2000/Documents)
+**📄 Repository:** [*Hybrid-Movie-Recommendation-System*](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
 
 </td>
 <td width="50%">
 
 #### 🔍 **Advanced Data Engineering for Economic Forecasting**
-**Research Collaboration:** OSS Research Group  
-**Project Duration:** 6-month intensive research  
-**Academic Impact:** Economic Data Science Applications  
+**Research Collaboration:** OSS Research Group
+**Project Duration:** 6-month intensive research
+**Academic Impact:** Economic Data Science Applications
 
 <div align="center">
 
@@ -761,10 +968,10 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 </div>
 
 **🔬 Breakthrough Research Achievements:**
-- 📈 **Germany GDP Prediction** - Historical analysis (1970-2022)
-- 🔗 **Inflation-GDP Correlation** - 85% statistical reliability
-- ⏱️ **Time-series Engineering** - Advanced forecasting techniques
-- 📊 **Economic Modeling** - Predictive analytics application
+- 📈 **Germany GDP Prediction** — Historical analysis (1970-2022)
+- 🔗 **Inflation-GDP Correlation** — 85% statistical reliability
+- ⏱️ **Time-series Engineering** — Advanced forecasting
+- 📊 **Economic Modeling** — Predictive analytics
 
 **📄 Research Documentation:** [*Project Repository*](https://github.com/DARREN-2000/Documents)
 
@@ -776,10 +983,10 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 | 🎯 **Research Domain** | 📊 **Impact Metric** | 🏆 **Academic Recognition** | 📄 **Documentation** |
 |:----------------------:|:--------------------:|:---------------------------:|:--------------------:|
-| **Hybrid ML Systems** | 92% Accuracy | Research Excellence Award | [Certificate Link](https://github.com/DARREN-2000/Documents) |
-| **Economic Forecasting** | 85% Reliability | Innovation Recognition | [Project Documentation](https://github.com/DARREN-2000/Documents) |
-| **Automotive AI Security** | 13% Improvement | Industry Impact Award | Research in Progress |
-| **NLP & OCR Systems** | 89% Accuracy | Technical Innovation | [Publication Link](https://github.com/DARREN-2000/Documents) |
+| **Hybrid ML Systems** | 92% Top-K Hit Rate | Research Publication | [Repository](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System) |
+| **Economic Forecasting** | 85% Reliability | Innovation Recognition | [Documentation](https://github.com/DARREN-2000/Documents) |
+| **Automotive AI Security** | +13% Detection | Master Thesis | [Repository](https://github.com/DARREN-2000/llm-integration) |
+| **NLP & OCR Systems** | 89% CER Reduction | Bachelor Thesis | [Repository](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction) |
 
 </div>
 
@@ -807,9 +1014,6 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
-
-### 🎵 **Currently Listening & Mood**
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=3)](https://spotify-github-profile.vercel.app/api/spotify)
 
 ### 📊 **Real-Time Engagement Metrics**
 
@@ -864,7 +1068,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 **💻 Digital Presence & Portfolio**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARREN-2000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://darren-2000.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://darren-2000.github.io/)
 [![Documents](https://img.shields.io/badge/Documents-Certificates_&_Transcripts-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARREN-2000/Documents)
 
 </td>
@@ -877,28 +1081,28 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 <tr>
 <td width="33%" align="center">
 
-**🏢 Current Position**  
-📍 **Nürnberg, Bavaria, Germany** 🇩🇪  
-🎯 **Status:** Master Thesis Research @ CARIAD  
-⏰ **Timezone:** Central European Time (CET)  
-📅 **Availability:** Active Researcher & Collaborator
+**🏢 Current Position**
+📍 **Bonn, NRW, Germany** 🇩🇪
+🎯 **Status:** MLOps Engineer Intern @ Deutsche Telekom
+⏰ **Timezone:** Central European Time (CET)
+📅 **Availability:** Active Engineer & Collaborator
 
 </td>
 <td width="33%" align="center">
 
-**💼 Professional Opportunities**  
-✅ **Research Collaborations** - AI & Automotive  
-✅ **Industry Partnerships** - Consulting Projects  
-✅ **Academic Cooperation** - Joint Research  
-✅ **Innovation Projects** - Startup & Tech
+**💼 Professional Opportunities**
+✅ **MLOps & LLMOps** — Infrastructure & Deployment
+✅ **Research Collaborations** — AI & Data Science
+✅ **Industry Partnerships** — Consulting Projects
+✅ **Innovation Projects** — GenAI & Cloud-Native
 
 </td>
 <td width="33%" align="center">
 
-**🎯 Collaboration Focus Areas**  
-🚗 **Automotive AI/ML Development**  
-🛡️ **Security Testing & Automation**  
-🔬 **Academic Research Projects**  
+**🎯 Collaboration Focus Areas**
+🤖 **GenAI, LLMOps & AI Agents**
+☁️ **Cloud-Native DevOps & MLOps**
+🔬 **Academic Research Projects**
 💡 **Technical Consulting & Mentoring**
 
 </td>
@@ -907,7 +1111,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 ### 🌟 **Why Connect with Me?**
 
-> *"I bring a unique combination of academic rigor, industry experience, and cutting-edge research in automotive AI. Whether you're looking to collaborate on groundbreaking research, explore innovative AI applications, or discuss the future of automotive technology, I'm excited to connect and create something amazing together!"*
+> *"I bring a unique combination of academic rigor, industry experience at Deutsche Telekom, Volkswagen, and BMW, and cutting-edge expertise in GenAI, LLMOps, and cloud-native MLOps. Whether you're looking to collaborate on LLM infrastructure, explore innovative AI applications, or discuss the future of AI-driven systems, I'm excited to connect!"*
 
 </div>
 
@@ -917,7 +1121,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=footer&animation=fadeIn&fontColor=fff"/>
 
-### 🚗 *"Revolutionizing automotive intelligence through AI-driven innovation, one breakthrough at a time"* ✨
+### 🚀 *"Driving innovation through AI-powered automation, LLMOps, and cloud-native engineering"* ✨
 
 <table>
 <tr>
@@ -943,16 +1147,16 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 </td>
 <td align="center" width="20%">
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-May_2025-FF6B6B?style=for-the-badge&logo=github-actions)
+![Last Updated](https://img.shields.io/badge/Last_Updated-March_2026-FF6B6B?style=for-the-badge&logo=github-actions)
 
 </td>
 </tr>
 </table>
 
-**⭐ Thank you for exploring my research journey! Let's innovate and build the future of automotive AI together! ⭐**
+**⭐ Thank you for exploring my professional journey! Let's innovate and build the future of AI together! ⭐**
 
 ---
 
-*🤖 Auto-updating via GitHub Actions | Built with ❤️ for the AI & Automotive Community | © 2025 Morris Darren Babu*
+*🤖 Auto-updating via GitHub Actions | Built with ❤️ for the AI & Data Community | © 2026 Morris Darren Babu*
 
 </div>
