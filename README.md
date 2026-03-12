@@ -161,6 +161,65 @@ graph TD
 
 ---
 
+## 🔵 **BMW Group — Data Scientist Intern | RAG & LLM Systems**
+
+<div align="center">
+
+### 🤖 **Automotive Diagnostics with RAG & LLM Systems**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=0066B1&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=RAG+%26+LLM+Systems+for+Surface+Detection+%26+Part+Issue+Identification" alt="BMW Focus"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Key Contributions**
+- 🎯 **CRNN Surface Detection** — Deployed on AWS SageMaker (EC2, S3) with semantic segmentation for automated surface defect identification
+- 🌐 **Django Web Application** — Parsing geometric STL meshes & file ingestion for 3D model analysis
+- 🤖 **LLM Auto-Suggestion Model** — RAG & vector search for part issue identification, cutting false positives
+- 📡 **Document Chunking Pipelines** — Data indexing for precision enhancement across diagnostic workflows
+- ☁️ **API-Served Results** — Tuned AI parameters for production-ready automotive diagnostics
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🖼️ Surface Images] --> B[🧠 CRNN Detection]
+    B --> C[☁️ AWS SageMaker]
+    D[📄 Technical Documents] --> E[📡 Document Chunking]
+    E --> F[🤖 RAG & Vector Search]
+    F --> G[💡 LLM Auto-Suggestion]
+    C --> H[🎯 Diagnostic Results]
+    G --> H
+    H --> I[🔵 BMW Quality Assurance]
+
+    style A fill:#0066B1,stroke:#fff,stroke-width:2px
+    style C fill:#FF9900,stroke:#fff,stroke-width:2px
+    style F fill:#4ECDC4,stroke:#fff,stroke-width:2px
+    style I fill:#0066B1,stroke:#fff,stroke-width:2px
+```
+
+### 🏆 **Quantifiable Impact**
+- 🎯 **+12% diagnostic precision** via RAG & vector search
+- ⚡ **+8% faster processing** through document chunking
+- ☁️ **AWS SageMaker** production deployment
+- 🖼️ **Semantic segmentation** for surface detection
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**🛠️ Technologies:** AWS SageMaker · EC2 · S3 · RAG · Django · Semantic Segmentation · LLMs · Python · TensorFlow
+
+---
+
 ## 🚀 **Professional Journey & Career Highlights**
 
 <div align="center">
@@ -415,33 +474,9 @@ timeline
 
 <div align="center">
 
-### 🗂️ **All Public Repositories**
+### 🗂️ **Key Project Repositories**
 
 <table>
-<tr>
-<td width="50%">
-
-[![Graph-Neural-Networks](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Graph-Neural-Networks&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Graph-Neural-Networks)
-
-</td>
-<td width="50%">
-
-[![GNN-Dataset-Generation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=GNN-Dataset-Generation-for-Material-Wear-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/GNN-Dataset-Generation-for-Material-Wear-Prediction)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![OCR-Spelling-Correction](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction)
-
-</td>
-<td width="50%">
-
-[![Hybrid-Movie-Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Hybrid-Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -450,38 +485,26 @@ timeline
 </td>
 <td width="50%">
 
-[![B2B_Consent_Personalization](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=B2B_Consent_Personalization&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/B2B_Consent_Personalization)
+[![Graph-Neural-Networks](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Graph-Neural-Networks&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Graph-Neural-Networks)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Classify-Math-Publications](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Classify-Math-Publications&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Classify-Math-Publications)
+[![GNN-Dataset-Generation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=GNN-Dataset-Generation-for-Material-Wear-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/GNN-Dataset-Generation-for-Material-Wear-Prediction)
 
 </td>
 <td width="50%">
 
-[![AI-Assignments](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=AI-Assignments&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/AI-Assignments)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Machine-Learning-Hands-on](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Machine-Learning-Hands-on&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Machine-Learning-Hands-on)
-
-</td>
-<td width="50%">
-
-[![Data-Preprocessing-Templates](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Data-Preprocessing-Templates&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Data-Preprocessing-Templates)
+[![OCR-Spelling-Correction](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Cloud-Native-Cassandra](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Cloud-Native-Cassandra-Building-CRUD-applications-with-Python-and-NodeJS&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Cloud-Native-Cassandra-Building-CRUD-applications-with-Python-and-NodeJS)
+[![Hybrid-Movie-Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Hybrid-Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
 
 </td>
 <td width="50%">
@@ -736,7 +759,7 @@ timeline
 **Friedrich Alexander University Erlangen-Nuremberg**
 **🇩🇪 Germany | October 2022 – March 2026**
 
-<img src="https://progress-bar.dev/100/?scale=100&title=Completed&width=200&color=4ECDC4"/>
+![Completed](https://img.shields.io/badge/Status-Completed%20✓-4ECDC4?style=for-the-badge)
 
 **🔬 Core Specializations:**
 - Pattern Recognition & Computer Vision
@@ -755,7 +778,7 @@ timeline
 **Rajalakshmi Institute of Technology**
 **🇮🇳 India | June 2018 – June 2022**
 
-<img src="https://progress-bar.dev/100/?scale=100&title=Completed&width=200&color=96CEB4"/>
+![Completed](https://img.shields.io/badge/Status-Completed%20✓-96CEB4?style=for-the-badge)
 
 **🏆 Achievement:** Graduated with Excellence
 **💻 Technical Foundation:**
@@ -835,7 +858,7 @@ timeline
 
 <div align="center">
 
-![English Progress](https://progress-bar.dev/90/?scale=100&title=C1_Level&width=150&color=4ECDC4&suffix=%)
+![English Progress](https://img.shields.io/badge/C1_Level-90%25-4ECDC4?style=for-the-badge)
 
 **🎯 Proficiency Areas:**
 - ✅ Professional Communication
@@ -853,7 +876,7 @@ timeline
 
 <div align="center">
 
-![German Progress](https://progress-bar.dev/45/?scale=100&title=B1_Progress&width=150&color=FF6B6B&suffix=%)
+![German Progress](https://img.shields.io/badge/B1_Progress-45%25-FF6B6B?style=for-the-badge)
 
 **🎯 Learning Objectives:**
 - 🎯 Workplace Communication
@@ -871,7 +894,7 @@ timeline
 
 <div align="center">
 
-![French Progress](https://progress-bar.dev/20/?scale=100&title=A1_Level&width=150&color=FECA57&suffix=%)
+![French Progress](https://img.shields.io/badge/A1_Level-20%25-FECA57?style=for-the-badge)
 
 **🎯 Communication Skills:**
 - 🌟 Basic Interaction
@@ -888,7 +911,7 @@ timeline
 
 <div align="center">
 
-![Tamil Progress](https://progress-bar.dev/100/?scale=100&title=Native&width=150&color=96CEB4&suffix=%)
+![Tamil Progress](https://img.shields.io/badge/Native-100%25-96CEB4?style=for-the-badge)
 
 **🎯 Proficiency:**
 - ✅ Mother Tongue
@@ -941,7 +964,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![Publication Impact](https://progress-bar.dev/92/?scale=100&title=92%25_Top-K_Hit_Rate&width=200&color=2ED573)
+![Publication Impact](https://img.shields.io/badge/Top--K_Hit_Rate-92%25-2ED573?style=for-the-badge)
 
 </div>
 
@@ -963,7 +986,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![Research Reliability](https://progress-bar.dev/85/?scale=100&title=85%25_Reliability&width=200&color=45B7D1)
+![Research Reliability](https://img.shields.io/badge/Reliability-85%25-45B7D1?style=for-the-badge)
 
 </div>
 
