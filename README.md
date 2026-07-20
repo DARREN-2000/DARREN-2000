@@ -18,16 +18,15 @@
 <tr>
 <td width="70%">
 
-> *"Structured AI/Data Specialist skilled at transforming and automating data workflows. Proficient in AWS, Azure, and Docker for secure cloud-native DevOps. Expert in analytics, ML/DL, and interactive visualization for data-driven decisions. Experienced in GenAI, AI Agents and LLMOps, including LLM evaluation, prompt engineering, RAG, and LoRA/QLoRA fine-tuning. Drives innovation through agile collaboration and Industry 4.0 frameworks."*
+> *"AI Engineer with experience building AI products, software services, and cloud systems. I turn unclear requirements into dependable solutions and carry them into production. My approach combines experimentation with scalable design, careful evaluation, and engineering from design through delivery. I design, build, and operate AI systems that continue to perform as requirements, data, and usage change."*
 
 ### 🎯 **Professional Identity**
-- 🏢 **MLOps Engineer Intern** @ **Deutsche Telekom** - LLM Infrastructure & Deployment
+- 🚀 **Software Engineer | AI Platforms & LLMOps** @ **Deutsche Telekom**
 - 🏎️ **Master Thesis** @ **Volkswagen Group (CARIAD)** - Integrating LLMs In Automotive Systems
-- 🔵 **Former Data Scientist Intern** @ **BMW Group** - RAG & LLM Systems
 - 🎓 **M.Sc. Data Science** @ Friedrich Alexander University Erlangen-Nuremberg
-- 🌱 Passionate about **GenAI**, **LLMOps**, **MLOps**, **Computer Vision**
-- 💡 Transforming complex data into intelligent, actionable solutions
-- 📍 **Bonn, NRW, Germany** 🇩🇪
+- 🌱 Passionate about **Agentic AI**, **LLMOps**, **Go**, and **Cloud-Native Architecture**
+- 💡 Transforming complex requirements into production-ready intelligence
+- 📍 **Nürnberg, Germany** 🇩🇪 | EU Blue Card
 
 </td>
 <td width="30%">
@@ -52,7 +51,7 @@
 
 ---
 
-## 🏢 **Current Role: Deutsche Telekom — MLOps Engineer Intern**
+## 🏢 **Deutsche Telekom — Software Engineer | AI Platforms & LLMOps**
 
 <div align="center">
 
@@ -256,7 +255,7 @@ timeline
         May-Sep 2025      : Master Thesis
                           : Volkswagen CARIAD, Wolfsburg
                           : 🛡️ +13% flaw detection, LLMs in Automotive
-        Oct 2025-Mar 2026 : MLOps Engineer Intern
+        Oct 2025-Mar 2026 : Software Engineer
                           : Deutsche Telekom, Bonn
                           : 🚀 LLM Benchmarking & MLOps Infra
 ```
@@ -420,49 +419,72 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### 🛡️ **1. LLM Integration for Automotive Systems**
-**🔬 Master Thesis — Volkswagen Group (CARIAD)**
-[![Repository](https://img.shields.io/badge/Repository-llm--integration-FF6B6B?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/llm-integration)
-🛠️ **Tech:** LLMs, Docker, Azure AI Foundry, CI/CD/CT, Black-Box Fuzzing
-🎯 **Impact:** +13% code-flaw detection, -33% test creation time, +7% code coverage
-💡 **Innovation:** AI-driven black-box fuzzing for automotive compute platforms
+#### 🧠 **1. Inference Control Plane**
+**🔬 Production-oriented LLM orchestration platform**
+[![Repository](https://img.shields.io/badge/Repository-Inference--Control--Plane-3178C6?style=for-the-badge&logo=typescript)](https://github.com/DARREN-2000/Inference-Control-Plane)
+🛠️ **Tech:** TypeScript
+🎯 **Impact:** Dynamic model routing, intelligent fallback handling, semantic caching, and real-time observability across models.
+💡 **Innovation:** GPU-aware vLLM scheduling and privacy-safe SLIs.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="100%">
 
-#### 🔮 **2. Material Prediction & Mesh Dataset Generation with GNNs**
-**🔬 Advanced ML for Predictive Maintenance**
-[![GNN Framework](https://img.shields.io/badge/Repo-Graph--Neural--Networks-4ECDC4?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/Graph-Neural-Networks)
-[![Dataset Generation](https://img.shields.io/badge/Repo-GNN--Dataset--Generation-45B7D1?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/GNN-Dataset-Generation-for-Material-Wear-Prediction)
-🛠️ **Tech:** Graph Neural Networks, PyTorch, Synthetic Datasets, Mesh Generation
-🎯 **Impact:** RMSE < 0.1, custom GNN framework for structural wear prediction
-💡 **Innovation:** Synthetic mesh dataset generation for material wear prediction
+#### 🤖 **2. governOS**
+**🔬 Agentic AI Planning & Orchestration System**
+[![Repository](https://img.shields.io/badge/Repository-governOS-3178C6?style=for-the-badge&logo=typescript)](https://github.com/DARREN-2000/governOS)
+🛠️ **Tech:** TypeScript
+🎯 **Impact:** A universal action OS that compiles natural-language intent into trusted workflows.
+💡 **Innovation:** Schema validation, human approval gates, audit tracing, and real-time replanning.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="100%">
 
-#### 📝 **3. OCR with Handwritten Recognition & Auto Spelling Correction**
-**🔬 Bachelor Thesis — NLP-based Document Processing**
-[![Repository](https://img.shields.io/badge/Repository-OCR--Spelling--Correction-FECA57?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction)
-🛠️ **Tech:** Tesseract OCR, NLP, Language Models, Text Tokenization
-🎯 **Impact:** 89% CER reduction, automated spelling correction
-💡 **Innovation:** End-to-end OCR pipeline with handwritten recognition
+#### ⚡ **3. AI Hypervisor Platform**
+**🔬 AI-native virtualization platform**
+[![Repository](https://img.shields.io/badge/Repository-ai--hypervisor--platform-00ADD8?style=for-the-badge&logo=go)](https://github.com/DARREN-2000/ai-hypervisor-platform)
+🛠️ **Tech:** Go, KVM/QEMU
+🎯 **Impact:** GPU-aware inference workloads, automated VM provisioning, and workload isolation.
+💡 **Innovation:** Designed for scalable AI orchestration.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="100%">
 
-#### 🎬 **4. Hybrid Movie Recommendation System**
-**🔬 Publication — Advanced Recommendation with Deep Learning**
-[![Repository](https://img.shields.io/badge/Repository-Hybrid--Movie--Recommendation-96CEB4?style=for-the-badge&logo=github)](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
-🛠️ **Tech:** Collaborative Filtering, Content-Based, Flask, Clustering, Deep Learning
-🎯 **Impact:** 92% Top-K Hit Rate, real-time user recommendations
-💡 **Innovation:** Hybrid filtering approach combining collaborative and content-based methods
+#### 🛡️ **4. GuardrailX**
+**🔬 Enterprise AI Governance Platform**
+[![Repository](https://img.shields.io/badge/Repository-GuardrailX-3178C6?style=for-the-badge&logo=typescript)](https://github.com/DARREN-2000/GuardrailX)
+🛠️ **Tech:** TypeScript
+🎯 **Impact:** Enforces runtime LLM governance across enterprise systems.
+💡 **Innovation:** Prompt injection detection, PII redaction, content safety filtering.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+
+#### 🏭 **5. Rulvanta**
+**🔬 Real-Time Predictive Maintenance & MLOps**
+[![Repository](https://img.shields.io/badge/Repository-Rulvanta-3776AB?style=for-the-badge&logo=python)](https://github.com/DARREN-2000/Rulvanta)
+🛠️ **Tech:** Python, Kafka, PySpark, FastAPI
+🎯 **Impact:** Event-driven industrial predictive maintenance targeting sub-100ms p95.
+💡 **Innovation:** Risk prediction, drift detection, and adaptive retraining.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+
+#### 🌐 **6. EnterpriseIQ**
+**🔬 Enterprise Knowledge Intelligence Platform**
+[![Repository](https://img.shields.io/badge/Repository-EnterpriseIQ-3776AB?style=for-the-badge&logo=python)](https://github.com/DARREN-2000/EnterpriseIQ)
+🛠️ **Tech:** Python, LangGraph, OpenSearch
+🎯 **Impact:** Production-grade LangGraph-based Agentic RAG and hybrid retrieval.
+💡 **Innovation:** Cross-encoder reranking, RBAC, eval across enterprise data.
 
 </td>
 </tr>
@@ -480,36 +502,36 @@ timeline
 <tr>
 <td width="50%">
 
-[![llm-integration](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=llm-integration&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/llm-integration)
+[![Inference Control Plane](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Inference-Control-Plane&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Inference-Control-Plane)
 
 </td>
 <td width="50%">
 
-[![Graph-Neural-Networks](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Graph-Neural-Networks&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Graph-Neural-Networks)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![GNN-Dataset-Generation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=GNN-Dataset-Generation-for-Material-Wear-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/GNN-Dataset-Generation-for-Material-Wear-Prediction)
-
-</td>
-<td width="50%">
-
-[![OCR-Spelling-Correction](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction)
+[![governOS](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=governOS&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/governOS)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Hybrid-Movie-Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Hybrid-Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System)
+[![ai-hypervisor-platform](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=ai-hypervisor-platform&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/ai-hypervisor-platform)
 
 </td>
 <td width="50%">
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=DARREN-2000.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/DARREN-2000.github.io)
+[![GuardrailX](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=GuardrailX&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/GuardrailX)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Rulvanta](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Rulvanta&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Rulvanta)
+
+</td>
+<td width="50%">
+
+[![EnterpriseIQ](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=EnterpriseIQ&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/EnterpriseIQ)
 
 </td>
 </tr>
@@ -522,7 +544,7 @@ timeline
 ## 🔬 **Detailed Professional Experience**
 
 <details>
-<summary>🏢 <strong>Deutsche Telekom</strong> — MLOps Engineer Intern | LLM Infrastructure & Deployment | <em>October 2025 – March 2026, Bonn</em></summary>
+<summary>🏢 <strong>Deutsche Telekom</strong> — Software Engineer | LLM Infrastructure & Deployment | <em>October 2025 – March 2026, Bonn</em></summary>
 
 <div align="center">
 
@@ -1106,7 +1128,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 **🏢 Current Position**
 📍 **Bonn, NRW, Germany** 🇩🇪
-🎯 **Status:** MLOps Engineer Intern @ Deutsche Telekom
+🎯 **Status:** Software Engineer @ Deutsche Telekom
 ⏰ **Timezone:** Central European Time (CET)
 📅 **Availability:** Active Engineer & Collaborator
 
@@ -1183,3 +1205,4 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 *🤖 Auto-updating via GitHub Actions | Built with ❤️ for the AI & Data Community | © 2026 Morris Darren Babu*
 
 </div>
+
