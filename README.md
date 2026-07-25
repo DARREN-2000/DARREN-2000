@@ -255,7 +255,7 @@ timeline
         May-Sep 2025      : Master Thesis
                           : Volkswagen CARIAD, Wolfsburg
                           : 🛡️ +13% flaw detection, LLMs in Automotive
-        Oct 2025-Mar 2026 : Software Engineer
+        Oct 2025-Present  : Software Engineer
                           : Deutsche Telekom, Bonn
                           : 🚀 LLM Benchmarking & MLOps Infra
 ```
@@ -544,7 +544,7 @@ timeline
 ## 🔬 **Detailed Professional Experience**
 
 <details>
-<summary>🏢 <strong>Deutsche Telekom</strong> — Software Engineer | LLM Infrastructure & Deployment | <em>October 2025 – March 2026, Bonn</em></summary>
+<summary>🏢 <strong>Deutsche Telekom</strong> — Software Engineer | LLM Infrastructure & Deployment | <em>October 2025 – Present, Bonn</em></summary>
 
 <div align="center">
 
@@ -1127,7 +1127,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 <td width="33%" align="center">
 
 **🏢 Current Position**
-📍 **Bonn, NRW, Germany** 🇩🇪
+📍 **Nürnberg, Germany** 🇩🇪 | Working from Bonn
 🎯 **Status:** Software Engineer @ Deutsche Telekom
 ⏰ **Timezone:** Central European Time (CET)
 📅 **Availability:** Active Engineer & Collaborator
@@ -1192,7 +1192,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 </td>
 <td align="center" width="20%">
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-March_2026-FF6B6B?style=for-the-badge&logo=github-actions)
+![Last Updated](https://img.shields.io/badge/Last_Updated-July_2026-FF6B6B?style=for-the-badge&logo=github-actions)
 
 </td>
 </tr>
