@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=🤖+MLOps+Engineer+%7C+AI%2FData+Specialist;🏢+Deutsche+Telekom+%7C+BMW+%26+Volkswagen+Alumni;📊+Transforming+Data+Workflows+with+GenAI+%26+LLMOps;🔬+LLM+Benchmarking+%7C+RAG+%7C+Fine-Tuning+Expert;☁️+AWS+%7C+Azure+%7C+Kubernetes+%7C+MLflow+%7C+vLLM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=🤖+MLOps+Engineer+%7C+AI%2FData+Specialist;🏢+Deutsche+Telekom+%7C+BMW+%26+Volkswagen+Alumni;📊+Transforming+Data+Workflows+with+GenAI+%26+LLMOps;🔬+LLM+Benchmarking+%7C+RAG+%7C+Fine-Tuning+Expert;☁️+AWS+%7C+Azure+%7C+Kubernetes+%7C+MLflow+%7C+vLLM)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=220&section=header&text=Morris%20Darren%20Babu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MLOps%20Engineer%20%7C%20AI%2FData%20Specialist%20%7C%20LLMOps%20%26%20GenAI&descAlignY=58&descAlign=50&descSize=20"/>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="AI Animation"/>
+<img src="./ai_animation.gif" width="100%" alt="AI Animation"/>
 
 ### 🌐 **Quick Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/morrisdarrenbabu)
@@ -57,7 +57,7 @@
 
 ### 🔬 **LLM Infrastructure & Deployment**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=E20074&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Building+Enterprise-Grade+LLM+Benchmarking+%26+MLOps+Infrastructure" alt="Current Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=E20074&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Building+Enterprise-Grade+LLM+Benchmarking+%26+MLOps+Infrastructure" alt="Current Focus"/>
 
 </div>
 
@@ -109,7 +109,7 @@ vLLM · GuideLLM · DeepEval · ClearML · MLflow · Keycloak · Kubernetes (Hel
 
 ### 🔬 **Integrating LLMs In Automotive Systems**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=AI-Driven+Black-Box+Fuzzing+for+Automotive+Cybersecurity" alt="Research Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=AI-Driven+Black-Box+Fuzzing+for+Automotive+Cybersecurity" alt="Research Focus"/>
 
 </div>
 
@@ -166,7 +166,7 @@ graph TD
 
 ### 🤖 **Automotive Diagnostics with RAG & LLM Systems**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=3000&color=0066B1&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=RAG+%26+LLM+Systems+for+Surface+Detection+%26+Part+Issue+Identification" alt="BMW Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=0066B1&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=RAG+%26+LLM+Systems+for+Surface+Detection+%26+Part+Issue+Identification" alt="BMW Focus"/>
 
 </div>
 
@@ -489,55 +489,6 @@ timeline
 </td>
 </tr>
 </table>
-
----
-
-## 📂 **GitHub Repositories**
-
-<div align="center">
-
-### 🗂️ **Key Project Repositories**
-
-<table>
-<tr>
-<td width="50%">
-
-[![Inference Control Plane](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Inference-Control-Plane&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Inference-Control-Plane)
-
-</td>
-<td width="50%">
-
-[![governOS](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=governOS&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/governOS)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![ai-hypervisor-platform](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=ai-hypervisor-platform&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/ai-hypervisor-platform)
-
-</td>
-<td width="50%">
-
-[![GuardrailX](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=GuardrailX&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/GuardrailX)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Rulvanta](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=Rulvanta&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/Rulvanta)
-
-</td>
-<td width="50%">
-
-[![EnterpriseIQ](https://github-readme-stats.vercel.app/api/pin/?username=DARREN-2000&repo=EnterpriseIQ&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/DARREN-2000/EnterpriseIQ)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
