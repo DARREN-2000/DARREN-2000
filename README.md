@@ -443,7 +443,19 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### ⚡ **3. AI Hypervisor Platform**
+#### 📦 **3. AgentBox**
+**🔬 Secure WebAssembly Runtime for AI Agents**
+[![Repository](https://img.shields.io/badge/Repository-AgentBox-3178C6?style=for-the-badge&logo=rust)](https://github.com/DARREN-2000/AgentBox)
+🛠️ **Tech:** Rust, Wasmtime, Axum, React, TailwindCSS
+🎯 **Impact:** An airtight Wasm sandbox that executes AI-generated code securely with fuel limits and memory isolation.
+💡 **Innovation:** Native MCP (Model Context Protocol) Server for dynamic tool synthesis.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+
+#### ⚡ **4. AI Hypervisor Platform**
 **🔬 AI-native virtualization platform**
 [![Repository](https://img.shields.io/badge/Repository-ai--hypervisor--platform-00ADD8?style=for-the-badge&logo=go)](https://github.com/DARREN-2000/ai-hypervisor-platform)
 🛠️ **Tech:** Go, KVM/QEMU
@@ -455,7 +467,7 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### 🛡️ **4. GuardrailX**
+#### 🛡️ **5. GuardrailX**
 **🔬 Enterprise AI Governance Platform**
 [![Repository](https://img.shields.io/badge/Repository-GuardrailX-3178C6?style=for-the-badge&logo=typescript)](https://github.com/DARREN-2000/GuardrailX)
 🛠️ **Tech:** TypeScript
@@ -467,7 +479,7 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### 🏭 **5. Rulvanta**
+#### 🏭 **6. Rulvanta**
 **🔬 Real-Time Predictive Maintenance & MLOps**
 [![Repository](https://img.shields.io/badge/Repository-Rulvanta-3776AB?style=for-the-badge&logo=python)](https://github.com/DARREN-2000/Rulvanta)
 🛠️ **Tech:** Python, Kafka, PySpark, FastAPI
@@ -479,7 +491,7 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### 🌐 **6. EnterpriseIQ**
+#### 🌐 **7. EnterpriseIQ**
 **🔬 Enterprise Knowledge Intelligence Platform**
 [![Repository](https://img.shields.io/badge/Repository-EnterpriseIQ-3776AB?style=for-the-badge&logo=python)](https://github.com/DARREN-2000/EnterpriseIQ)
 🛠️ **Tech:** Python, LangGraph, OpenSearch
