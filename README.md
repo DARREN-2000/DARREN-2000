@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1100&height=140&lines=🤖+MLOps+Engineer+%7C+AI%2FData+Specialist;🏢+Deutsche+Telekom+%7C+BMW+%26+Volkswagen+Alumni;📊+Transforming+Data+Workflows+with+GenAI+%26+LLMOps;🔬+LLM+Benchmarking+%7C+RAG+%7C+Fine-Tuning+Expert;☁️+AWS+%7C+Azure+%7C+Kubernetes+%7C+MLflow+%7C+vLLM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1800&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=AI+%26+Automation+Engineer;LLMOps+%7C+Cloud+Workflows+%7C+Applied+AI;Building+reliable+systems+for+real+workflows)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=220&section=header&text=Morris%20Darren%20Babu&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MLOps%20Engineer%20%7C%20AI%2FData%20Specialist%20%7C%20LLMOps%20%26%20GenAI&descAlignY=58&descAlign=50&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=190&section=header&text=Morris%20Darren%20Babu&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Automation%20Engineer%20%7C%20LLMOps%20%26%20Cloud%20Workflows&descAlignY=59&descAlign=50&descSize=17"/>
 
 </div>
 
@@ -18,15 +18,14 @@
 <tr>
 <td width="70%">
 
-> *"AI Engineer with experience building AI products, software services, and cloud systems. I turn unclear requirements into dependable solutions and carry them into production. My approach combines experimentation with scalable design, careful evaluation, and engineering from design through delivery. I design, build, and operate AI systems that continue to perform as requirements, data, and usage change."*
+> *"I enjoy making complicated work feel simpler. My work brings together AI engineering, automation, and software systems—with a focus on building solutions people can rely on, not just demos that look good."*
 
 ### 🎯 **Professional Identity**
-- 🚀 **Software Engineer | AI Platforms & LLMOps** @ **Deutsche Telekom**
-- 🏎️ **Master Thesis** @ **Volkswagen Group (CARIAD)** - Integrating LLMs In Automotive Systems
+- 🤖 **AI/LLMOps Engineer** @ **Merck Group** — B2B contract
+- ☁️ Building applied AI and order-workflow automation with cloud and enterprise systems
+- 🧪 Previously: **Deutsche Telekom**, **Volkswagen Group (CARIAD)**, and **BMW Group**
 - 🎓 **M.Sc. Data Science** @ Friedrich Alexander University Erlangen-Nuremberg
-- 🌱 Passionate about **Agentic AI**, **LLMOps**, **Go**, and **Cloud-Native Architecture**
-- 💡 Transforming complex requirements into production-ready intelligence
-- 📍 **Nürnberg, Germany** 🇩🇪 | EU Blue Card
+- 📍 **Nürnberg, Germany** 🇩🇪
 
 </td>
 <td width="30%">
@@ -39,7 +38,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/morrisdarrenbabu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:morrisdarren357@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DARREN-2000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://darren-2000.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://darren-dev.netlify.app/)
 
 </div>
 
@@ -51,13 +50,26 @@
 
 ---
 
-## 🏢 **Deutsche Telekom — Software Engineer | AI Platforms & LLMOps**
+## 🧭 **Current Focus — AI & Workflow Automation**
+
+### 🧪 **AI/LLMOps Engineer @ Merck Group**
+*B2B contract · October 2026–Present · Nuremberg, Germany*
+
+I work on making order workflows more useful and reliable with applied AI and cloud automation.
+
+- Evaluating LLM-assisted document extraction for order workflows, with a focus on accuracy and review of uncertain results.
+- Mapping current processes and regional requirements to support workflow expansion.
+- Contributing to AWS-based automation and SAP integration, including testing and release improvements.
+
+---
+
+## 🏢 **Deutsche Telekom — AI Platforms & LLMOps**
 
 <div align="center">
 
-### 🔬 **LLM Infrastructure & Deployment**
+### 🔬 **LLM Infrastructure & Evaluation**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=E20074&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Building+Enterprise-Grade+LLM+Benchmarking+%26+MLOps+Infrastructure" alt="Current Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=E20074&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=LLM+evaluation%2C+benchmarking%2C+and+platform+reliability" alt="Deutsche Telekom focus"/>
 
 </div>
 
@@ -109,7 +121,7 @@ vLLM · GuideLLM · DeepEval · ClearML · MLflow · Keycloak · Kubernetes (Hel
 
 ### 🔬 **Integrating LLMs In Automotive Systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=AI-Driven+Black-Box+Fuzzing+for+Automotive+Cybersecurity" alt="Research Focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=3000&color=527A9A&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=LLM-Assisted+White-Box+Fuzz+Driver+Generation" alt="Research focus"/>
 
 </div>
 
@@ -118,12 +130,12 @@ vLLM · GuideLLM · DeepEval · ClearML · MLflow · Keycloak · Kubernetes (Hel
 <td width="50%">
 
 ### 🎯 **Research Vision**
-My research explores **AI-driven black-box fuzzing** within automotive CI/CD/CT pipelines, leveraging **Large Language Models** in **Azure AI Foundry**. This work addresses the critical challenge of maintaining robust software security while accelerating development cycles in safety-critical automotive systems.
+My thesis explored whether **Large Language Models** could help generate fuzz drivers for automotive C++ software—and how to evaluate and integrate that work into secure CI/CD/CT pipelines.
 
 ### 🔬 **Core Research Contributions**
-- 🧠 **AI-Driven Black-Box Fuzzing** — Benchmarked 16 LLM models, boosting code-flaw detection by 13%
+- 🧠 **LLM-Assisted White-Box Fuzzing** — Benchmarked 16 LLMs, improving code-flaw detection by 13%
 - 🔄 **Automated Test-Case Generation** — Containerized LLM inference in CI/CD/CT, cutting test creation time by 33%
-- 🔐 **Secure Azure Private Link** — Automated LLM fuzz-testing PoC, reducing delays by 10%
+- 🔐 **Secure Azure Private Link** — Enabled inference from isolated CI/CD runners
 
 </td>
 <td width="50%">
@@ -132,7 +144,7 @@ My research explores **AI-driven black-box fuzzing** within automotive CI/CD/CT 
 
 ```mermaid
 graph TD
-    A[🧠 AI/LLM Engine] --> B[🔍 Black-Box Fuzzing]
+    A[🧠 AI/LLM Engine] --> B[🔍 Fuzz Driver Generation]
     B --> C[🔄 CI/CD/CT Pipeline]
     C --> D[⚡ Automated Testing]
     D --> E[📊 Security Analysis]
@@ -149,8 +161,8 @@ graph TD
 ### 🏆 **Quantifiable Impact**
 - 🎯 **+13% code-flaw detection** via Azure AI Foundry
 - ⚡ **-33% test creation time** through automation
+- 🔋 **-55% token consumption** through model and workflow optimization
 - 🛡️ **+7% code coverage** increase
-- 🚗 **-10% execution delays** — improved SW quality
 
 </div>
 
@@ -237,7 +249,7 @@ timeline
     section Early Industry Experience
         Jun-Dec 2020 : Python Developer Intern
                      : Jman Group (London, Remote)
-                     : 🤖 87% ML accuracy, +27% throughput
+                     : 🤖 87% ML accuracy
         Feb-Jul 2021 : Data Engineering Intern
                      : Altascio Technologies (Texas, Remote)
                      : ⏰ 20hrs/week automation savings
@@ -246,7 +258,7 @@ timeline
                            : 📊 +25% ETL pipeline enhancement
 
     section Advanced Research & Industry
-        Oct 2022-Mar 2026 : M.Sc. Data Science
+        Oct 2022-Oct 2026 : M.Sc. Data Science
                           : FAU Erlangen-Nuremberg
                           : 🧠 AI & ML Specialization
         Oct 2024-Apr 2025 : Data Scientist Intern
@@ -255,9 +267,12 @@ timeline
         May-Sep 2025      : Master Thesis
                           : Volkswagen CARIAD, Wolfsburg
                           : 🛡️ +13% flaw detection, LLMs in Automotive
-        Oct 2025-Present  : Software Engineer
+        Oct 2025-Apr 2026 : Software Engineer
                           : Deutsche Telekom, Bonn
-                          : 🚀 LLM Benchmarking & MLOps Infra
+                          : 🚀 LLM Evaluation & MLOps
+        Oct 2026-Present  : AI/LLMOps Engineer
+                          : Merck Group, Nuremberg
+                          : ⚙️ Order Workflow Automation
 ```
 
 </div>
@@ -279,7 +294,6 @@ timeline
 | **Processing Speed** | `+8%` | 🔵 BMW Group |
 | **Pipeline Enhancement** | `+25%` | 💎 Crystal Consultancy |
 | **ML Accuracy** | `87%` | 🟢 Jman Group |
-| **ETL Throughput** | `+27%` | 🟢 Jman Group |
 | **Time Automation** | `20hrs/week` | 🏢 Altascio Technologies |
 
 </td>
@@ -491,12 +505,12 @@ timeline
 <tr>
 <td align="center" width="100%">
 
-#### 🌐 **7. EnterpriseIQ**
-**🔬 Enterprise Knowledge Intelligence Platform**
-[![Repository](https://img.shields.io/badge/Repository-EnterpriseIQ-3776AB?style=for-the-badge&logo=python)](https://github.com/DARREN-2000/EnterpriseIQ)
-🛠️ **Tech:** Python, LangGraph, OpenSearch
-🎯 **Impact:** Production-grade LangGraph-based Agentic RAG and hybrid retrieval.
-💡 **Innovation:** Cross-encoder reranking, RBAC, eval across enterprise data.
+#### 🎙️ **7. Kairith**
+**🔬 Real-Time Voice Agent Runtime**
+[![Repository](https://img.shields.io/badge/Repository-Kairith-3776AB?style=for-the-badge&logo=python)](https://github.com/DARREN-2000/kairith)
+🛠️ **Tech:** Python, voice AI
+🎯 **Focus:** Natural turn-taking, interruption handling, and reliable low-latency conversations.
+💡 **Exploration:** Voice-agent runtime design and evaluation.
 
 </td>
 </tr>
@@ -506,8 +520,19 @@ timeline
 
 ## 🔬 **Detailed Professional Experience**
 
+<details open>
+<summary>🧪 <strong>Merck Group</strong> — AI/LLMOps Engineer | B2B contract | <em>October 2026 – Present, Nuremberg</em></summary>
+
+**Current focus:** Applying LLMs and cloud automation to order workflows.
+
+- Evaluating LLM-assisted document extraction and how to handle uncertain results.
+- Mapping current processes and regional requirements for workflow expansion.
+- Contributing to AWS-based automation, SAP integration, user testing, and release fixes.
+
+</details>
+
 <details>
-<summary>🏢 <strong>Deutsche Telekom</strong> — Software Engineer | LLM Infrastructure & Deployment | <em>October 2025 – Present, Bonn</em></summary>
+<summary>🏢 <strong>Deutsche Telekom</strong> — Software Engineer | AI Platforms & LLMOps | <em>October 2025 – April 2026, Bonn</em></summary>
 
 <div align="center">
 
@@ -549,7 +574,7 @@ timeline
 
 <div align="center">
 
-### 🛡️ **AI-Driven Black-Box Fuzzing for Automotive Cybersecurity**
+### 🛡️ **LLM-Assisted White-Box Fuzzing for Automotive Software**
 
 </div>
 
@@ -558,9 +583,9 @@ timeline
 <td width="50%">
 
 **🔬 Research Contributions:**
-- 🧠 **AI-Driven Black-Box Fuzzing** — Benchmarked 16 LLM models in Azure AI Foundry
+- 🧠 **LLM-Assisted White-Box Fuzzing** — Benchmarked 16 LLMs in Azure AI Foundry
 - 🔄 **Automated Test-Case Generation** — Containerized LLM inference in CI/CD/CT pipelines
-- 🔐 **Secure Azure Private Link** — Automated LLM fuzz-testing PoC replacing manual tests
+- 🔐 **Secure Azure Private Link** — Enabled inference from isolated CI/CD runners
 - 🚗 **ECU Resilience** — Strengthened automotive cybersecurity posture
 - 📊 **Comprehensive Evaluation** — Performance & coverage optimization
 
@@ -570,15 +595,14 @@ timeline
 **📈 Quantifiable Research Impact:**
 - 🎯 **+13% code-flaw detection** through Azure AI Foundry fuzzing
 - ⚡ **-33% test creation time** via automated generation
+- 🔋 **-55% token consumption** through model and workflow optimization
 - 🛡️ **+7% code coverage** improvement via Docker-deployed LLMs
-- 🔍 **-10% execution delays** via Azure Private Link
-- 📋 **Reduced OEM cybersecurity threats**
 
 </td>
 </tr>
 </table>
 
-**🛠️ Technologies:** Azure AI Foundry, Azure Private Link, Docker, LLMs, CI/CD/CT, Python, Git
+**🛠️ Technologies:** Azure AI Foundry, Azure Private Link, Docker, LLMs, LoRA/QLoRA, CI/CD/CT, Python, GitHub Actions
 
 </details>
 
@@ -716,7 +740,6 @@ timeline
 
 **📈 Measurable Impact:**
 - 🎯 **87% accuracy** in field tests
-- ⚡ **+27% throughput** improvement
 - 🔄 **ETL bottleneck resolution**
 - 📊 **End-to-end** pipeline delivery
 
@@ -742,9 +765,9 @@ timeline
 
 #### 🎓 **Master of Science in Data Science**
 **Friedrich Alexander University Erlangen-Nuremberg**
-**🇩🇪 Germany | October 2022 – March 2026**
+**🇩🇪 Germany | October 2022 – October 2026**
 
-![Completed](https://img.shields.io/badge/Status-Completed%20✓-4ECDC4?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-4ECDC4?style=for-the-badge)
 
 **🔬 Core Specializations:**
 - Pattern Recognition & Computer Vision
@@ -763,7 +786,7 @@ timeline
 **Rajalakshmi Institute of Technology**
 **🇮🇳 India | June 2018 – June 2022**
 
-![Completed](https://img.shields.io/badge/Status-Completed%20✓-96CEB4?style=for-the-badge)
+![Completed](https://img.shields.io/badge/Completed-96CEB4?style=for-the-badge)
 
 **🏆 Achievement:** Graduated with Excellence
 **💻 Technical Foundation:**
@@ -993,7 +1016,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 |:----------------------:|:--------------------:|:---------------------------:|:--------------------:|
 | **Hybrid ML Systems** | 92% Top-K Hit Rate | Research Publication | [Repository](https://github.com/DARREN-2000/Hybrid-Movie-Recommendation-System) |
 | **Economic Forecasting** | 85% Reliability | Innovation Recognition | [Documentation](https://github.com/DARREN-2000/Documents) |
-| **Automotive AI Security** | +13% Detection | Master Thesis | [Repository](https://github.com/DARREN-2000/llm-integration) |
+| **Automotive AI Security** | +13% Detection | Master Thesis | [Repository](https://github.com/DARREN-2000/LLM-Fuzzing-Monitor-Dashboard) |
 | **NLP & OCR Systems** | 89% CER Reduction | Bachelor Thesis | [Repository](https://github.com/DARREN-2000/OCR-with-Handwritten-Recognition-and-Auto-Spelling-Correction) |
 
 </div>
@@ -1076,7 +1099,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 **💻 Digital Presence & Portfolio**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARREN-2000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://darren-2000.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://darren-dev.netlify.app/)
 [![Documents](https://img.shields.io/badge/Documents-Certificates_&_Transcripts-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARREN-2000/Documents)
 
 </td>
@@ -1090,18 +1113,18 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 <td width="33%" align="center">
 
 **🏢 Current Position**
-📍 **Nürnberg, Germany** 🇩🇪 | Working from Bonn
-🎯 **Status:** Software Engineer @ Deutsche Telekom
+📍 **Nürnberg, Germany** 🇩🇪
+🎯 **Status:** AI/LLMOps Engineer @ Merck Group (B2B contract)
 ⏰ **Timezone:** Central European Time (CET)
-📅 **Availability:** Active Engineer & Collaborator
+📅 **Focus:** Applied AI, LLMOps & workflow automation
 
 </td>
 <td width="33%" align="center">
 
 **💼 Professional Opportunities**
-✅ **MLOps & LLMOps** — Infrastructure & Deployment
+✅ **Applied AI & LLMOps** — Evaluation and workflow automation
 ✅ **Research Collaborations** — AI & Data Science
-✅ **Industry Partnerships** — Consulting Projects
+✅ **Industry Partnerships** — B2B consulting
 ✅ **Innovation Projects** — GenAI & Cloud-Native
 
 </td>
@@ -1117,9 +1140,9 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 </tr>
 </table>
 
-### 🌟 **Why Connect with Me?**
+### 🌟 **Let's Connect**
 
-> *"I bring a unique combination of academic rigor, industry experience at Deutsche Telekom, Volkswagen, and BMW, and cutting-edge expertise in GenAI, LLMOps, and cloud-native MLOps. Whether you're looking to collaborate on LLM infrastructure, explore innovative AI applications, or discuss the future of AI-driven systems, I'm excited to connect!"*
+> *I enjoy thoughtful conversations about practical AI, automation, and the engineering choices that make systems dependable. If you're working on something in that space, I'd be glad to hear about it.*
 
 </div>
 
@@ -1129,7 +1152,7 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=footer&animation=fadeIn&fontColor=fff"/>
 
-### 🚀 *"Driving innovation through AI-powered automation, LLMOps, and cloud-native engineering"* ✨
+### *AI, automation, and reliable systems — built with care.*
 
 <table>
 <tr>
@@ -1151,11 +1174,6 @@ Docker               18 mins     ▒░░░░░░░░░░░░░░�
 <td align="center" width="20%">
 
 ![Repositories](https://img.shields.io/badge/Active_Repos-Research_Focus-4ECDC4?style=for-the-badge&logo=github)
-
-</td>
-<td align="center" width="20%">
-
-![Last Updated](https://img.shields.io/badge/Last_Updated-July_2026-FF6B6B?style=for-the-badge&logo=github-actions)
 
 </td>
 </tr>
